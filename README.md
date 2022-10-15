@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop screenshot](https://github.com/kalosFestus/profile-card-component-main/blob/master/screenshots/desktop%20screenshot.png)
-![Mobile screenshot](https://github.com/kalosFestus/profile-card-component-main/blob/master/screenshots/mobile%20screenshot.jpeg)
+![desktop screenshot](https://github.com/kalosFestus/stats-preview-component-card-main/blob/master/screenshots/desktop%20screenshot.png)
+![Mobile screenshot](https://github.com/kalosFestus/stats-preview-component-card-main/blob/master/screenshots/mobile%20screenshot.png)
 
 - Solution URL: (https://github.com/kalosFestus/stats-preview-component-card-main)
 - Live Site URL: (https://kalosfestus.github.io/stats-preview-component-card-main/)
